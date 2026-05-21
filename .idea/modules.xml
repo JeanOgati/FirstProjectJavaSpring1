@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/First-Project-Java-Spring/First-Project-Java-Spring.iml" filepath="$PROJECT_DIR$/First-Project-Java-Spring/First-Project-Java-Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/First-Project-Java-Spring (1).iml" filepath="$PROJECT_DIR$/.idea/First-Project-Java-Spring (1).iml" />
     </modules>
   </component>
